@@ -1,0 +1,1 @@
+Projeto de uma landing page feito a partir de uma inspiração, ainda não totalmente responsivo
